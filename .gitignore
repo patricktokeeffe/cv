@@ -1,0 +1,6 @@
+# ignore JabRef clutter
+*.bib.bak
+
+# don't yet include PDF copies of files
+pubs/*
+
