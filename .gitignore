@@ -4,3 +4,7 @@
 # don't yet include PDF copies of files
 pubs/*
 
+# ignore included file jcsl.csl from
+# https://github.com/jtanguy/julien.jhome.fr/blob/master/assets/csl/jcsl.csl
+# via https://stackoverflow.com/q/13545725
+jcsl.csl
